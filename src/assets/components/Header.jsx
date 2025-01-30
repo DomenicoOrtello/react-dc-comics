@@ -1,3 +1,7 @@
 export default function Header () {
-    return (ciao)
+    return (
+        <header>
+           <h1>ciao</h1>
+        </header>
+    )
 }
